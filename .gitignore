@@ -1,0 +1,15 @@
+# PlatformIO
+.pio/
+.vscode/
+
+# Compilación
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
